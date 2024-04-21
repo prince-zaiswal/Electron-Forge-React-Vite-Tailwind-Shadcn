@@ -1,0 +1,8 @@
+.greet-heading {
+    background: linear-gradient(60deg, rgba(234, 0, 41, 1) 40%, rgba(243, 187, 1, 1) 50%, rgb(78, 105, 15) 68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}

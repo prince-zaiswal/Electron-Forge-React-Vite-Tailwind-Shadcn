@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Universal css Can be Added here */
+body{
+  background-color: black;
+}
