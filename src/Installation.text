@@ -1,0 +1,14 @@
+Use the following technologies: React, ElectronJS, Forge, Tailwind, Vite, and Shadcn to build a new "Hello World" project. 
+Please Note: Do not use Webpack. Only use the above technologies.  
+Refference :  https://www.youtube.com/watch?v=L68K5xPxFVc&t=211s&ab_channel=RezaBuilds
+1.npm init electron-app@latest my-app -- --template=vite
+2.npm install --save react react-dom
+3.configure
+import * as React from 'react';
+import { createRoot } from 'react-dom/client';
+
+const root = createRoot(document.body);
+root.render(<h2>Hello from React!</h2>);
+
+4.Tailwind and Shadcn configuration 
+5.https://ui.shadcn.com/docs/installation/vite
